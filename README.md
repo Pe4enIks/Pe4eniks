@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! My name is Evgenii Pishchik. 👋
+
+### 📫 Where to find me
+[vk](https://vk.com/pe4eniks)
+[telegram](https://t.me/Evgenii_Pishchik)
 
 <!--
 **Pe4enIks/Pe4eniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
