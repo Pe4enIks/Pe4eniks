@@ -10,3 +10,11 @@
   <img align="center" src="https://github.com/Pe4enIks/Pe4eniks/blob/main/images/telegram_icon.png" alt="tg"/>
 </a>
 </p>
+
+<h2 align="center">My tg channel about Neural Networks</h2>
+
+<p align="center">
+<a href="https://t.me/neural_info">
+  <img align="center" src="https://github.com/Pe4enIks/Pe4eniks/blob/main/images/telegram_icon.png" alt="tg"/>
+</a>
+</p>
