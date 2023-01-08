@@ -11,7 +11,7 @@
 </a>
 </p>
 
-<h2 align="center">My tg channel about Neural Networks</h2>
+<h2 align="center">My telegram channel about Neural Networks.</h2>
 
 <p align="center">
 <a href="https://t.me/neural_info">
