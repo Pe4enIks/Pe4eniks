@@ -3,7 +3,7 @@
 Machine Learning Engineer at [Rutube](https://rutube.ru/).<br>
 HSE student at [Machine Learning and Data-Intensive Systems](https://www.hse.ru/en/ma/mlds/).<br>
 
-- 🤔 Interested in: `ml`, `dl`, `research`, `mlops`, `devops`, `teaching`.<br>
+- 🤔 Interested in: `ml`, `dl`, `research`, `mlops`, `devops`, `teaching`, `kaggle`.<br>
 - ❤️ Like: `video games`, `formula-1`, `travelling`, `content creation`.<br>
 
 #### Links
