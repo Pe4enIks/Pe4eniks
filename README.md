@@ -4,7 +4,7 @@ Machine Learning Engineer at [Rutube](https://rutube.ru/).<br>
 HSE student at [Machine Learning and Data-Intensive Systems](https://www.hse.ru/en/ma/mlds/).<br>
 
 - 🤔 Interested in: `ml`, `dl`, `research`, `mlops`, `devops`, `teaching`, `kaggle`.<br>
-- ❤️ Like: `video games`, `formula-1`, `travelling`, `content creation`.<br>
+- ❤️ Like: `video games`, `formula-1`, `karting`, `travelling`, `content creation`.<br>
 
 #### Links
 - <a href="https://www.linkedin.com/in/evgenii-pishchik/"><img src="https://img.shields.io/badge/Evgenii_Pishchik-gray?logo=linkedin&labelColor=blue&color=gray"/></a> <a href="mailto:jenjapishhik@gmail.com"><img src="https://img.shields.io/badge/Gmail-jenjapishhik-gray?logo=gmail&logoColor=white&labelColor=red&color=gray"/></a> <a href="https://t.me/neural_info"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dneural_info"/></a> <br>
