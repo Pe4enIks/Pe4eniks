@@ -1,6 +1,6 @@
 ### Hello there, I'm Evgenii 👋
 
-Machine Learning Engineer at [Rutube](https://rutube.ru/).<br>
+Machine Learning Engineer at [Wildberries](https://www.wildberries.ru/).<br>
 HSE student at [Machine Learning and Data-Intensive Systems](https://www.hse.ru/en/ma/mlds/).<br>
 
 - 🤔 Interested in: `ml`, `dl`, `research`, `mlops`, `devops`, `teaching`, `kaggle`.<br>
